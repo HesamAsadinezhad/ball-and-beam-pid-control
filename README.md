@@ -68,7 +68,7 @@ MATLAB/Simulink project on modeling, stabilizing, and tuning a PID controller fo
 
 - **PICTURES/** — Simulink block diagrams, scope traces (with and without output saturation), root-locus/response comparisons on the real system (`3_rzn_on_real.png`, `ise_4_on_real.png`), controller-effort and ISE comparison plots (`ce_4.png`, `optpid_4.png`), and reference screenshots.
 ![Dashboard](MEDIA/PICTURES/3_rzn_on_real.png)
-![Dashboard](MEDIA/PICTURES/ise4_on_real.png)
+![Dashboard](MEDIA/PICTURES/ise_4_on_real.png)
 ![Dashboard](MEDIA/PICTURES/ce_4.png)
 ![Dashboard](MEDIA/PICTURES/optpid_4.png)
 - **PICTURES/steps/** — Photographed steps of the hardware build/setup process.
